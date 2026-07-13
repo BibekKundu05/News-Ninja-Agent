@@ -16,10 +16,6 @@ Original file is located at
 # q -> Quite Mode -> Hides extra logs
 # U -> Upgrade -> Install the latest versions
 
-# tavily-python -> used to search internet in real-time
-
-!pip install -qU langchain-groq langgraph langchain-community tavily-python
-
 # Setup APIKeys ->
 
 # GROQ API Key -> https://console.groq.com/keys
